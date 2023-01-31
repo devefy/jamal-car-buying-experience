@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# jamal-car-buying-experience
-=======
-<<<<<<< HEAD
-# jamal-car-buying-experience
-=======
 # jamal_car_buying_experience
 
 A new Flutter project.
